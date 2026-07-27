@@ -280,11 +280,8 @@ Como etapa final, recomenda-se realizar um **teste de consistência do modelo**,
 
 > **Resultado:** o NotebookLM atua como um copiloto técnico para o analista de investimentos, auxiliando na validação das premissas, identificação de inconsistências e preparação de discussões para Comitês de Investimento, sempre fundamentado na metodologia de Alexandre Póvoa.
 
-# Mini Guia de Utilização
 
-Este NotebookLM foi desenvolvido para atuar como uma base de conhecimento especializada em Valuation, utilizando exclusivamente materiais de Alexandre Póvoa e fontes complementares selecionadas.
-
-# 📖 Mini Guia de Estudo
+#  Mini Guia de Estudo
 
 Este NotebookLM foi desenvolvido para atuar como uma base de conhecimento especializada em **Valuation**, reunindo conteúdos selecionados de Alexandre Póvoa e materiais complementares sobre análise fundamentalista e avaliação de empresas.
 
@@ -292,7 +289,7 @@ Seu objetivo é apoiar estudantes e profissionais do mercado financeiro na consu
 
 ---
 
-# 📚 Resumo Estruturado
+# Resumo Estruturado
 
 ## O que é Valuation?
 
@@ -353,7 +350,7 @@ As principais são:
 
 ---
 
-# 📖 Glossário
+# Glossário
 
 | Conceito | Definição |
 |----------|-----------|
@@ -372,7 +369,7 @@ As principais são:
 
 ---
 
-# 💬 Prompts Reutilizáveis
+# Prompts Reutilizáveis
 
 ## Revisão de Premissas
 
@@ -430,6 +427,6 @@ Com base exclusivamente nas fontes deste Notebook, apresente os principais argum
 
 ---
 
-# 🎯 Objetivo do NotebookLM
+# Objetivo do NotebookLM
 
 Este NotebookLM foi desenvolvido para atuar como um **copiloto técnico** em consultas sobre valuation, permitindo centralizar conhecimento, revisar conceitos, validar premissas e apoiar a construção de análises fundamentalistas. A proposta não é substituir o julgamento do analista, mas aumentar a produtividade, padronizar consultas e facilitar o acesso a referências técnicas durante o processo de avaliação de empresas e tomada de decisão em investimentos.
